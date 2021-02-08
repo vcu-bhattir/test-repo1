@@ -1,3 +1,6 @@
+
+My favorite tool is Pylint
+
 # Example Test Repository for Students
 
 ![Python package](https://github.com/vcu-chfauerbach/test-repo1/workflows/Python%20package/badge.svg)
@@ -8,4 +11,3 @@
 
 Adding a change for the live demo in class.
 
-my favorite tool is Pylint
